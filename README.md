@@ -21,17 +21,17 @@ o   .   .
 player1:  3 1    
 o   .   .   
 .   *   .   
-*   .   .   
+\*   .   .   
 
 player2:  2 1    
 o   .   .   
 o   *   .   
-*   .   .   
+\*   .   .   
 
 player1:  1 3    
 o   .   *   
 o   *   .   
-*   .   .   
+\*   .   .   
 
 player1 win!
 game over!
